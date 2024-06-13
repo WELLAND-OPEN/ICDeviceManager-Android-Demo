@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DEMO</string>
+    <string name="btn_scan">AddDevice</string>
+    <string name="btn_remove">DeleteDevice</string>
+    <string name="btn_unit">Unit</string>
+    <string name="btn_cal">SetCal</string>
+</resources>
