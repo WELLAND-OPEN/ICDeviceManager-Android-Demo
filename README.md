@@ -10,4 +10,4 @@
 - arm64-v8a
   
 ## Documentation
-[Jump to Online Document](```http://sdk.icomon.cn```)
+http://sdk.icomon.cn
